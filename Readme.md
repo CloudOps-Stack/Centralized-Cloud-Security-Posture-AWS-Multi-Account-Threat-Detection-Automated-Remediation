@@ -1,4 +1,4 @@
-<img width="1883" height="810" alt="Screenshot 2026-09-11 123417" src="https://github.com/user-attachments/assets/560c34b5-0ed8-48c2-9f00-403009ad005e" /># Centralized Cloud Security Posture
+# Centralized Cloud Security Posture
 ### Security Hub · GuardDuty · Inspector · IAM Access Analyzer · AWS Organizations
 
 A production-grade centralized security posture setup built on top of an existing AWS Landing Zone, enabling organization-wide threat detection, vulnerability management, and access analysis — all aggregated into a single Audit account using AWS delegated administrator patterns.
